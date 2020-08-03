@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+  background-color: cadetblue;
+}
+
+/* ABOUT - RULES */
+.about {
+  max-width: 50%;
+  margin: 0 auto;
+}
+
+.about h1 {
+  font-size: 1.6rem;
+}
+
+.rules h1 {
+  font-size: 1.6rem;
+}
+
+.buttons {
+  margin-top: 3%;
+  margin-bottom: 1.5%;
+}
+
+.selection-menu {
+  margin-right: 1.2%;
+  cursor: pointer;
+}
+
+.buttons button {
+  margin-right: 1.2%;
+  cursor: pointer;
+}
+
+.cellGrid {
+  margin: 0 auto;
+  width: 50%;
+  display: flex;
+  justify-content: center;
+}
